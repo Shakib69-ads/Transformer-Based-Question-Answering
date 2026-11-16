@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+torch
+transformers
+datasets
+evaluate
+accelerate
+safetensors
+sentencepiece
+streamlit

@@ -1,0 +1,4 @@
+Model,Checkpoint,Exact Match (%),F1 Score (%),Inference Time (s),Avg Time/Question (s)
+DistilBERT,distilbert/distilbert-base-uncased-distilled-squad,82.5,87.39,25.81,0.129
+BERT-Cased,deepset/bert-base-cased-squad2,77.5,84.93,49.48,0.247
+RoBERTa,deepset/roberta-base-squad2,85.5,89.9,52.13,0.261
